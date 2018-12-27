@@ -10,8 +10,7 @@ import { CourcesService } from './Services/cources.servce';
 @NgModule({
   declarations: [
     AppComponent,
-    CourcesComponent
-    
+    CourcesComponent    
   ],
   imports: [
     BrowserModule,
